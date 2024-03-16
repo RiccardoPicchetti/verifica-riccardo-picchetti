@@ -1,0 +1,1 @@
+# verifica-riccardo-picchetti
