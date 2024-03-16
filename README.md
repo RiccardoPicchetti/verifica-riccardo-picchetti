@@ -1,4 +1,4 @@
 # verifica-riccardo-picchetti
 
-ciao
+buongiorno
 
